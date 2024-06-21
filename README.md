@@ -25,7 +25,6 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ git clone https://github.com/Hitstar53/SpaceX-Website.git
 $ cd ../spacex-website-clone
 $ go live at index.html
 ```
